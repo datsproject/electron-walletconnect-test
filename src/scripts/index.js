@@ -5,6 +5,8 @@ console.log('webpack starterkit');
 
 /*
 
+##### WalletConnect Standalone Client #####  
+
 import WalletConnect from "@walletconnect/client";
 import QRCodeModal from "@walletconnect/qrcode-modal";
 
